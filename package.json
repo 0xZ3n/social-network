@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/0xZ3n/social-network#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "inquirer": "^8.2.0",
+    "mongoose": "^6.0.12",
     "node.js": "^0.0.1-security"
   }
 }
