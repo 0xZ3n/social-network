@@ -1,0 +1,24 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Program using NoSQL for a social networking site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xZ3n/social-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xZ3n/social-network/issues"
+  },
+  "homepage": "https://github.com/0xZ3n/social-network#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "node.js": "^0.0.1-security"
+  }
+}
